@@ -1,3 +1,5 @@
+// BASE
+
 class BaseTreatment {
   setNextTreatment(treatment) {
     this.nextTreatment = treatment
