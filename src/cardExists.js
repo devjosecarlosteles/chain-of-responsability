@@ -9,3 +9,5 @@ class CardExists extends BaseTreatment {
     return "Cartão validado com sucesso"
   }
 }
+
+module.exports = { CardExists }
