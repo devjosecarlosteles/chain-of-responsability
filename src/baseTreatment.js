@@ -11,3 +11,5 @@ class BaseTreatment {
     return cardNumber
   }
 }
+
+module.exports = { BaseTreatment }
