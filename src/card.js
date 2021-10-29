@@ -1,5 +1,5 @@
-const CardExists = require("./cardExists")
-const CardNotExists = require("./cardNotExists")
+const { CardExists } = require("./cardExists")
+const { CardNotExists } = require("./cardNotExists")
 
 class Card {
   Treat(cardNumber) {
